@@ -90,6 +90,46 @@
 /*---design end ---*/
 
 /*position start ---*/
+.zero{
+position: absolute;
+margin-top:310px;
+padding-right:50px
+}
+
+.one{
+position: absolute;
+margin-top:238px;
+}
+.two{
+position: absolute;
+margin-top:238px;
+padding-left:90px;
+}
+.three{
+position: absolute;
+margin-top:238px; 
+padding-left:160px;
+}
+.four{
+position: absolute;
+margin-top:165px;
+padding-left:20px;
+}
+.five{
+position: absolute;
+margin-top:165px;
+padding-left:90px;
+}
+.six{
+position: absolute;
+margin-top:165px;
+padding-left:159px;
+}
+.seven{
+position: absolute;
+margin-top:95px;
+padding-left:20px;
+}
 
 .plus{
 text-decoration: none;
