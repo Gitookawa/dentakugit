@@ -33,22 +33,22 @@
     <div class="nine">
        <a href="#" class="button1">9</a>
     </div>
-     <div class="square">
-       <a href="#" class="plus">＋</a>
-    </div> 	
-    <div class="square">
-       <a href="#" class="minus">−</a>
+      <div class="plus">
+       <a href="#" class="square">＋</a>
+     </div> 	
+    <div class="minus">
+       <a href="#" class="square">−</a>
     </div>
-    <div class="square">
-       <a href="#" class="division">÷</a>
+    <div class="Multiply">
+       <a href="#" class="square">✕</a>
     </div>
-    <div class="square">
-       <a href="#" class="Multiply">✕ </a>
+    <div class="division">
+       <a href="#" class="square">÷</a>
     </div>
-   <div class="equal">
+   <div class="equal1">
        <a href="#" class="equal">=</a>
     </div>
-   <div class="delate">
+   <div class="delate1">
        <a href="#" class="delate">C</a>
     </div>
  </body>

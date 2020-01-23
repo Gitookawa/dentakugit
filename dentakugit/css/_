@@ -160,29 +160,26 @@ margin-top:180px;
 .division{
 text-decoration: none;
 position: absolute;
-margin-top:95px;
+margin-top:20px;
 padding-left:310px;
 }
 
 .Multiply{
 text-decoration: none;
-position: absolute;
-margin-top:180px;
-padding-left:310px;
 }
 
 .equal1{
 text-decoration: none;
 position:absolute;
-margin-top:255px;
-padding-left: 310px;
+margin-top:235px;
+padding-left: 320px;
 }
 
 .delate1{
 text-decoration: none;
 position: absolute;
-margin-top:255px;
-padding-left: 230px;
+margin-top:230px;
+padding-left: 240px;
 }
 
 /*---position end ----*/
