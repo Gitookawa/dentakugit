@@ -2,11 +2,13 @@
  <head>
   <meta charset="UTF-8">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+   <link href="css/index.css" rel="stylesheet">
 
 <div class="result">計算する値を入力してください</div>
 <!--<input type="number" value="10" class="input_number" placeholder="数値を入力してください">-->
 
 <!--<input type="hidden" class="input_number" value="6">-->
+<div id ="dentaku">
 <input type="button" class="input_number0" value="0">
 <input type="button" class="input_number1" value="1">
 <input type="button" class="input_number2" value="2">
@@ -18,12 +20,12 @@
 <input type="button" class="input_number8" value="8">
 <input type="button" class="input_number9" value="9">
 <input type="button" class="input_numberC" value="C">
-<input type="button" class="input_number10" value="＋">
+<input type="button" class="input_number10" value="+">
 <input type="button" class="input_number11" value="−">
 <input type="button" class="input_number12" value="×">
 <input type="button" class="input_number13" value="÷">
 <input type="button" class="input_number14" value="=">
-
+</div>
 
 
 
